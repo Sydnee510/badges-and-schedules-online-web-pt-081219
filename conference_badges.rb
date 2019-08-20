@@ -1,3 +1,3 @@
 def badge_maker(name)
-  badge_maker
+  badge_maker("")
 end  
