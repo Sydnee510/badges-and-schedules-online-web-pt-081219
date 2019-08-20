@@ -10,5 +10,5 @@ new_result
 end
 
 def assign_rooms(attendees)
-  new_result.each_with_index
+  new_result.each_with_index 
 end  
