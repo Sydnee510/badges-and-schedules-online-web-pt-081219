@@ -10,4 +10,5 @@ new_result
 end
 
 def assign_rooms(attendees)
-  
+  ()
+end  
