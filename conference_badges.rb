@@ -1,5 +1,6 @@
 def badge_maker(name)
  ("Hello, my name is #{name}.")
 end  
-def_badge_creator()
+def batch_badge_creator()
+  puts badge_maker
 end 
