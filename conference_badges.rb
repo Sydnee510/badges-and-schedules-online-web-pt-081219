@@ -10,5 +10,5 @@ new_result
 end
 
 def assign_rooms(attendees)
-  "Hello, #{name}! You'll be assigned to room !"
+  new_result.each_with_index
 end  
