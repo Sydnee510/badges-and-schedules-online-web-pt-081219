@@ -10,5 +10,5 @@ new_result
 end
 
 def assign_rooms(attendees)
-  new_result.each_with_index 
+  attendees.each_with_index do |name, room_n|
 end  
