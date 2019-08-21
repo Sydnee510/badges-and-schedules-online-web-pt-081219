@@ -18,6 +18,8 @@ end
 def printer(attendees)
   attendees.each do |name|
     puts badge_maker(name)
+    assign_rooms(attendees).each do |theme|
+      puts theme
   end
 end  
 end  
